@@ -1,4 +1,4 @@
-## Pierwsza strona testowa dla miłośników mrówek
+## Moja pierwsza strona testowa dla miłośników mrówek
 
 W sieci zabrakło mi klucza do rozpoznawania mrówek.
 
@@ -14,7 +14,8 @@ Mrówki najbardziej pasujące do kryteriów wyszukiwania, będą umieszczone na 
 www.atlasmrowek.pl
 
 
-### Plany na rozbudowe strony
+
+### Plany na rozbudowe strony:
 W przyszłości dodam więcej kryteriów dopasowania.
 
 Na razie w bazie znajdują się tylko polskie mrówki.
